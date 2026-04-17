@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ༆Mʀ᭄Aman࿐AK(kumaraman83402)</h1>
 <h3 align="center">A passionate python developer from India</h3>
 
-<img width="636" height="488" alt="image" src="https://github.com/user-attachments/assets/909ff90e-ff21-4013-8561-f2c193f3198e" />
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/aad9f328-aa1f-473b-9cc8-662a56a04e31" />
 
 
 
