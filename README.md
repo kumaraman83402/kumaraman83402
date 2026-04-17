@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm ༆Mʀ᭄Aman࿐AK(kumaraman83402)</h1>
 <h3 align="center">A passionate python developer from India</h3>
 
-<img width="531" height="33" alt="image" src="https://github.com/user-attachments/assets/e441b678-702a-4704-b571-5d54aaf99dd8" />
+<img width="636" height="488" alt="image" src="https://github.com/user-attachments/assets/909ff90e-ff21-4013-8561-f2c193f3198e" />
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumaraman83402&label=Profile%20views&color=0e75b6&style=flat" alt="kumaraman83402" /> </p>
