@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm ༆Mʀ᭄Aman࿐AK(kumaraman83402)</h1>
 <h3 align="center">A passionate python developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/aad9f328-aa1f-473b-9cc8-662a56a04e31" />
-<img width="636" height="488" alt="image" src="https://github.com/user-attachments/assets/8a00855a-5a32-4a8b-90c0-43f3c2e6aa99" />
-
-
-
+<img align="right" alt="coding" width="400" src="[https://github.com/user-attachments/assets/aad9f328-aa1f-473b-9cc8-662a56a04e31](https://camo.githubusercontent.com/cb076fcd3ac2418eba6291a8c83ea7e224c591587567505bda836303c6cb9977/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313237322f312a5a53566d57476363317765454e6230536861775778772e676966)" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumaraman83402&label=Profile%20views&color=0e75b6&style=flat" alt="kumaraman83402" /> </p>
 
