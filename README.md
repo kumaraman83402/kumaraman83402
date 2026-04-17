@@ -2,6 +2,8 @@
 <h3 align="center">A passionate python developer from India</h3>
 
 <img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/aad9f328-aa1f-473b-9cc8-662a56a04e31" />
+<img width="636" height="488" alt="image" src="https://github.com/user-attachments/assets/8a00855a-5a32-4a8b-90c0-43f3c2e6aa99" />
+
 
 
 
