@@ -1,3 +1,27 @@
+<h1 align="center">Hi 👋, I'm ༆Mʀ᭄Aman࿐AK(kumaraman83402)</h1>
+<h3 align="center">A passionate python developer from India</h3>
+
+<img width="531" height="33" alt="image" src="https://github.com/user-attachments/assets/e441b678-702a-4704-b571-5d54aaf99dd8" />
+
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumaraman83402&label=Profile%20views&color=0e75b6&style=flat" alt="kumaraman83402" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumaraman83402&show_icons=true&locale=en&layout=compact" alt="kumaraman83402" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumaraman83402&show_icons=true&locale=en" alt="kumaraman83402" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumaraman83402&" alt="kumaraman83402" /></p>
+
+
+
+
 # 💫 About Me:
 I am Aman Kumar, a Computer Science undergraduate with a strong foundation in full-stack web development and problem-solving. I specialize in building scalable and user-friendly web applications using Python (Django), along with solid knowledge of HTML, CSS, and JavaScript.<br><br>I have hands-on experience in developing real-world projects such as an E-commerce platform, Library Management System, and database-driven applications using MySQL. Alongside development, I am proficient in Git/GitHub and modern development tools, which help me build efficient and maintainable solutions.<br><br>I am passionate about continuously improving my skills, exploring modern technologies, and applying my knowledge to create impactful software solutions.
 
