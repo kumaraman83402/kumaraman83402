@@ -5,7 +5,7 @@
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cb076fcd3ac2418eba6291a8c83ea7e224c591587567505bda836303c6cb9977/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f76322f726573697a653a6669743a313237322f312a5a53566d57476363317765454e6230536861775778772e676966" />
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kumaraman83402&label=Profile%20views&color=0e75b6&style=flat" alt="kumaraman83402" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=kumaraman83402&label=Profile%20views&color=0e75b6&style=flat" alt="kumaraman83402" /> </p> -->
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumaraman83402&" alt="kumaraman83402" /></p> -->
 
