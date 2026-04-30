@@ -9,10 +9,8 @@
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumaraman83402&" alt="kumaraman83402" /></p> -->
 
-
-
-
 # 💫 About Me:
+<hr>
 I am Aman Kumar, a Computer Science undergraduate with a strong foundation in full-stack web development and problem-solving. I specialize in building scalable and user-friendly web applications using Python (Django), along with solid knowledge of HTML, CSS, and JavaScript.<br><br>I have hands-on experience in developing real-world projects such as an E-commerce platform, Library Management System, and database-driven applications using MySQL. Alongside development, I am proficient in Git/GitHub and modern development tools, which help me build efficient and maintainable solutions.<br><br>I am passionate about continuously improving my skills, exploring modern technologies, and applying my knowledge to create impactful software solutions.
 
 
